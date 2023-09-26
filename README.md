@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Current Fashion Trends</title>
   </head>
   <body>
     <h3>Importance of Fashion</h3>
