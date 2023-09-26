@@ -1,3 +1,4 @@
 <html>
-  <title>2023 Fashion Trends</title>
+  title: [Ultimate Travel Guide]
+  description: [A short description of your site's purpose]
 </html>
