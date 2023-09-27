@@ -56,7 +56,7 @@
     />
       <p> <em> Photo by Vanesa conunaese on Unsplash </em> </p>
   <h2> Conclusion </h2>
-    <p> Hope you guys enjoyed seeing all my top tier foods, it was fun to make! With my website, I hope that you guys can try out, or continue to enjoy, these new foods. <em> Maybe, </em> they'll become <em> your </em> favorites as well! </p>
+    <p> Hope you guys enjoyed seeing all my top tier foods, it was fun to make! With my website, I hope that you guys can try out, or continue to enjoy, these foods. <em> Maybe, </em> they'll become <em> your </em> favorites as well! </p>
     <p> For those who are <strong> hungry </strong> after seeing this: <a href="https://www.doordash.com/"> Mmm...</a> </p>
     <p> Credits: </p> 
     <ul>
