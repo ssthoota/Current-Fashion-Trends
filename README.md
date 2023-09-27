@@ -60,6 +60,6 @@
     <p> For those of you who are hungry after seeing this:<a href=https://www.doordash.com/> Mmm... </a>
       </p>
     <p> Credits: Photos - Unsplash (Public Domain) | Puns - CHAT GPT (Public Domain) and myself </p>
-    <h4> Now, go and embark on your own flavorful journey! </h4>
+    <h5> Now, go and embark on your own flavorful journey! </h5>
   </body>
 </html>
