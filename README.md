@@ -59,7 +59,7 @@
     <p> Hope you guys enjoyed this site, it was fun to make!</p>
     <p> For those of you who are hungry after seeing this:<a href=https://www.doordash.com/> Mmm... </a>
       </p>
-    <p> Credits: Photos - Unsplash (Public Domain) | Puns: myself and CHAT GPT (Public Domain) </p>
+    <p> Credits: Photos - Unsplash (Public Domain) | Puns - CHAT GPT (Public Domain) and myself </p>
     <h4> Now, go and embark on your own flavorful journey! </h4>
   </body>
 </html>
