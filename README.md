@@ -27,7 +27,10 @@
        <p>I love kebabs becasue...</p>
     <h2> Main Dish </h2>
     <h4> Pad Thai </h4>
-    <p> <strong> joke </strong> </p>
+    <p> <strong> Pad Thai is wok-ing its way to becoming everyone's favorite meal! </strong> </p>
+       <img
+      src="https://images.unsplash.com/photo-1637806930600-37fa8892069d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1885&q=80"
+    />
       <p> <em> Photo by John Aledia on Unsplash </em> </p>
        <p>I love kebabs becasue...</p>
     <h4> Báhn Mi </h4>
