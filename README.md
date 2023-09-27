@@ -61,7 +61,7 @@
     <p> Credits: </p> 
     <ul>
       <li> Photos - Unsplash (Public Domain) </li>
-      <li> Puns - CHAT GPT (Public Domain) and myself </li>
+      <li> Puns - ChatGPT (Public Domain) and myself </li>
     </ul>  
     <h5> Now, go and embark on your own flavorful journey! </h5>
   </body>
