@@ -12,7 +12,7 @@
     />
        <p>I love kebabs becasue...</p>
     <h4> Garlic Bread </h4>
-    <h6> <strong> You know what they say? One garlic bread a day keeps the vampires away. <strong> </h6>
+    <p> <strong> You know what they say? One garlic bread a day keeps the vampires away. <strong> </p>
     <img
       src="https://images.unsplash.com/photo-1587676353811-1708ddf47031?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2157&q=80"
     />
