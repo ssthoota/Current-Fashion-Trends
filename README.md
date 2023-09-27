@@ -11,7 +11,6 @@
       src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
     />
        <p>I love kebabs becasue...</p>
-  
     <h4> Garlic Bread </h4>
     <h6> <strong> You know what they say? One garlic bread a day keeps the vampires away. <strong> </h6>
     <img
