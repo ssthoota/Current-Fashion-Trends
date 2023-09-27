@@ -56,13 +56,13 @@
     />
       <p> <em> Photo by Vanesa conunaese on Unsplash </em> </p>
   <h2> Conclusion </h2>
-    <p> Hope you guys enjoyed seeing all my top tier foods, it was fun to make! I hope that, with this site, you guys can test out these new foods, which will hopefully become <em> your </em> favorites as well </p>
+    <p> Hope you guys enjoyed seeing all my top tier foods, it was fun to make! I hope that, with this site, you guys can test out these new foods, which will hopefully become <em> your </em> favorites as well! </p>
     <p> For those who are <strong> hungry </strong> after seeing this: <a href="https://www.doordash.com/"> Mmm...</a> </p>
     <p> Credits: </p> 
     <ul>
       <li> Photos - Unsplash (Public Domain) </li>
       <li> Puns - ChatGPT (Public Domain) and myself </li>
     </ul>  
-    <h5> <u> Now, go and embark on your own flavorful journey! </u> </h5>
+    <h6> <strong> Now, go and embark on your own flavorful journey! </strong> </h6>
   </body>
 </html>
