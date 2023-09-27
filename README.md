@@ -12,11 +12,11 @@
     />
     <p> <em> Photo by Victoria Shes on Unsplash </em> </p>
     <h4> Garlic Bread </h4>
-    <p> <strong> You know what they say? One garlic bread a day keeps the vampires away. <strong> </p>
+    <p> <strong> You know what they say? One garlic bread a day keeps the vampires away. </strong>strong> </p>
     <img
       src="https://images.unsplash.com/photo-1587676353811-1708ddf47031?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2157&q=80"
     />
-      <p> Photo by ihjaaz manarikk on Unsplash </p>
+      <p> <em> Photo by ihjaaz manarikk on Unsplash </em> </p>
     <h4> Sweet and Sour Soup </h4>
     <p> <strong> Drink this soup, and you will stir up the best drama! </strong> </p>
     <img
