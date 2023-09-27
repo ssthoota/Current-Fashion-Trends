@@ -56,13 +56,8 @@
     />
       <p> <em> Photo by Vanesa conunaese on Unsplash </em> </p>
   <h2> Conclusion </h2>
-    <p> Hope you guys enjoyed this site, it was fun to make!</p>
-    <p> <strong> hungry </strong> after seeing this? </p>
-      <p>
-        <ul>
-          <li> <a href="https://www.doordash.com/"> Mmm...</a> </li>
-        </ul>
-      </p>
+    <p> Hope you guys enjoyed seeing all my top tier foods, it was fun to make! I hope that, with this site, you guys can test out these new foods, which will hopefully become <em> your </em> favorites as well </p>
+    <p> <strong> hungry </strong> after seeing this: <a href="https://www.doordash.com/"> Mmm...</a> </p>
     <p> Credits: </p> 
     <ul>
       <li> Photos - Unsplash (Public Domain) </li>
