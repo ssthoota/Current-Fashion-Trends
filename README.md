@@ -57,9 +57,12 @@
       <p> <em> Photo by Vanesa conunaese on Unsplash </em> </p>
   <h2> Conclusion </h2>
     <p> Hope you guys enjoyed this site, it was fun to make!</p>
-    <p> For those of you who are <strong> hungry </strong> after seeing this: <a href=https://www.doordash.com/> Mmm... /a>
-      </p>
-    <p> Credits: Photos - Unsplash (Public Domain) | Puns - CHAT GPT (Public Domain) and myself </p>
+    <p> For those of you who are <strong> hungry </strong> after seeing this: <a href=https://www.doordash.com/> Mmm... </a>
+    <p> Credits: </p> 
+    <ul>
+      <li> Photos - Unsplash (Public Domain) </li>
+      <li> Puns - CHAT GPT (Public Domain) and myself </li>
+    </ul>  
     <h5> Now, go and embark on your own flavorful journey! </h5>
   </body>
 </html>
