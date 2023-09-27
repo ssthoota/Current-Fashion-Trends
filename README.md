@@ -1,7 +1,7 @@
 <html>
   <head>
     <title> My Dream Menu </title>
-     <p> I have always had an <strong> insatiable </strong> passion for food. When I was little, opening a restaurant that encompassed many foods of different cultures and regions was so extraordinary to me. During the pandemic, I furthered my passion for cooking, and have learned to love the process as well as the outcome, <em> obviosuly </em>. I also love dad jokes, aka <s>bad</s> revoltionary humor, in general. With this imaginary menu of all my favorite delicacies, I can share my culinary vision, with a side of puns, one plate at a time! </p>
+     <p> I have always had an <strong> insatiable </strong> passion for food. When I was little, opening a restaurant that encompassed many foods of different cultures and regions was so extraordinary to me. During the pandemic, I furthered my passion for cooking, and have learned to love the process as well as the outcome, <em> obviosuly </em>. I also love are dad jokes, aka <s>bad</s> revoltionary humor. With this imaginary menu of all my favorite delicacies, I can share my culinary vision, with a side of puns, one plate at a time! </p>
   </head>
   <body>
     <h2> Appetizers </h2>
