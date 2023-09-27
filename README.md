@@ -55,5 +55,11 @@
       src="https://images.unsplash.com/photo-1523300887219-f88796dd73b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80"
     />
       <p> <em> Photo by Vanesa conunaese on Unsplash </em> </p>
+  <h5> Conclusion </h5>
+    <p> Hope you guys enjoyed this site, it was fun to make!</p>
+    <p> For those of you who are hungry after seeing this:<a href=https://www.doordash.com/> Mmm... </a>
+      </p>
+    <p> Credits: Photos - Unsplash (Public Domain) | Puns: myself and CHAT GPT (Public Domain) </p>
+    <h4> Now, go and embark on your own flavorful journey! </h4>
   </body>
 </html>
