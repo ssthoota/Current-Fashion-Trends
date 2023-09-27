@@ -63,6 +63,6 @@
       <li> Photos - Unsplash (Public Domain) </li>
       <li> Puns - ChatGPT (Public Domain) and myself </li>
     </ul>  
-    <h5> Now, go and embark on your own flavorful journey! </h5>
+    <h4> Now, go and embark on your own flavorful journey! </h4>
   </body>
 </html>
